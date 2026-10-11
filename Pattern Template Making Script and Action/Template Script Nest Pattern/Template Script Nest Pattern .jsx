@@ -113,7 +113,7 @@ function createTemplate(buyer, style) {
 
     // Add footer text at the bottom right corner
     var footerText = doc.textFrames.add();
-    footerText.contents = "Created by \u00A9 JM Fabrics Ltd. Based on the original design by Gymshark";
+    footerText.contents = "Created by \u00A9 JM Fabrics Ltd. Based on the original design by " + buyer;
     footerText.textRange.characterAttributes.size = 70; // Set the text size to 70pt
     footerText.textRange.characterAttributes.fillColor = new RGBColor();
     footerText.textRange.characterAttributes.fillColor.red = 0;
