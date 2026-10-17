@@ -185,3 +185,34 @@ Site: [www.ladyginpro.ru](http://ladyginpro.ru)
 ## **LICENSE**
 All scripts is licensed under the MIT licence.<br>
 See the included LICENSE file for more details.
+
+___________________________________________
+
+Combine Multiple Text Frames
+
+
+
+
+
+Combine multiple selected text frames into a single text frame in Adobe Illustrator. This script helps organize text and simplify your artwork.
+
+Features
+
+Combine Text: Merge multiple selected text frames into one.
+
+Save Time: Simplify text editing and document management.
+
+Easy Workflow: Run the script directly from Illustrator.
+
+Usage
+
+Open your document in Adobe Illustrator.
+
+Select the text frames you want to combine.
+
+Go to File → Scripts → Other Script…
+
+Select Combiner.js and click Open.
+
+Review the combined text and save your document.
+
