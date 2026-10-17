@@ -178,6 +178,8 @@ The script copies color samples from the document to the active document while m
 ![TransferSwatches](https://dl.dropboxusercontent.com/s/51ert15kcp7ufm7/transferSwatches.gif?dl=0)
 
 
+##
+
 ## **CombineMultipleTextFrames**
 
 The script combines multiple selected text frames into a single text frame in Adobe Illustrator, making text editing and organization easier.
@@ -189,6 +191,7 @@ The script combines multiple selected text frames into a single text frame in Ad
 4. Check the combined text and save your document.
 
 
+##
 
 ## &nbsp;
 ## **Contact**
